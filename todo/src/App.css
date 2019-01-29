@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-list-container {
+  margin: 50px 0;
+  box-shadow: black;
+}
